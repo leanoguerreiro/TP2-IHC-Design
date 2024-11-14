@@ -93,8 +93,6 @@
 
 ---
 
-## Conclusão
 
-Este trabalho foi um esforço colaborativo para desenvolver um sistema que visa melhorar a saúde mental dos usuários por meio de uma interface intuitiva e de fácil uso. O aplicativo **Treinador do Ciclo Circadiano** foi projetado com foco na personalização das interações com o usuário, baseando-se em conceitos de IHC, design centrado no usuário e usabilidade. A avaliação contínua da experiência do usuário garantiu um produto final mais eficiente e adequado às necessidades de quem sofre com questões relacionadas ao ciclo circadiano e saúde mental.
 
 ---
