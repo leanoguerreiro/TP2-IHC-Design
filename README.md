@@ -29,7 +29,7 @@
 
 ### 1. **Proposta**
 - [**1.1 Problemas.md**](https://github.com/leanoguerreiro/TP2-IHC-Design/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)  
-  Tabela detalhando a distribuição de tarefas entre os membros da equipe, com a carga horária despendida em cada atividade.
+
   
 - [**1.2 Soluções_Existentes.md**](https://github.com/leanoguerreiro/TP2-IHC-Design/blob/main/docs/1.%20Proposta/1.2%20Solu%C3%A7%C3%B5es_Existentes.md)  
   Análise de soluções já existentes no mercado e identificação das lacunas a serem exploradas no nosso projeto.
